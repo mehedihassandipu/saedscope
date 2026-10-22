@@ -17,8 +17,7 @@
 ## Quick start
 
 ```bash
-git clone https://github.com/[your-account]/saedscope.git
-cd saedscope
+git clone https://github.com/mehedihassandipu/saedscope.gitcd saedscope
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
@@ -176,8 +175,7 @@ included in this repository. Our own microscope images are not included either.
 
 ## Provenance
 
-Built for the OSI Hackathon (October 2026) by Mehedi Hassan Dipu, with an AI coding assistant (Claude).
-Work began on 20 October at 11:45 pm US Eastern (03:45 UTC on 21 October); the first version (the core pipeline and the
+Built for the OSI Hackathon (October 2026) by Mehedi Hassan Dipu. The first version (the core pipeline and the
 standard and hard benchmark splits) was written on 21 October. During the event I added the real-data evaluation (our microscope
 and public data), the calibration checks, the CIF check and tilt advice, 4D-STEM, small-detector and paper-figure
 support, Velox calibration reading, and the write-up and video.
