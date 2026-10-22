@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+.DS_Store
+
+# Benchmark images are regenerated exactly from their seeds (see bench/README.md); they are ~200 MB
+bench/data/*/images/
+
+# Never commit unpublished microscope data
+data/private/
+*.dm3
+*.dm4
+*.zspy
+*.hspy
+*.mib
+*.ser
+*.emd
