@@ -17,7 +17,8 @@
 ## Quick start
 
 ```bash
-git clone https://github.com/mehedihassandipu/saedscope.gitcd saedscope
+git clone https://github.com/mehedihassandipu/saedscope.git
+cd saedscope
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
