@@ -1,0 +1,18 @@
+numpy>=1.26
+scipy>=1.11
+scikit-image>=0.22
+pymatgen>=2024.1.1
+pandas>=2.0
+matplotlib>=3.8
+plotly>=5.20
+streamlit>=1.50
+imageio>=2.31
+rosettasciio>=0.4      # reads Gatan .dm3/.dm4 with calibration
+
+# optional
+anthropic>=0.40        # AI explanation / benchmark runner (Anthropic models)
+openai>=1.40           # AI explanation / benchmark runner (any OpenAI-compatible endpoint)
+# mp-api>=0.45         # Materials Project candidate search (uncomment; needs a free API key)
+pytest>=8.0
+zarr<3                 # 4D-STEM .zspy files
+h5py                   # 4D-STEM .hspy/.hdf5 files

@@ -1,0 +1,200 @@
+{"id": "htype_000", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.42, "error": null}
+{"id": "htype_001", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 5.46, "error": null}
+{"id": "htype_002", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 1.17, "error": null}
+{"id": "htype_003", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.27, "error": null}
+{"id": "htype_004", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 5.48, "error": null}
+{"id": "htype_005", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 4.6, "error": null}
+{"id": "htype_006", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.05, "error": null}
+{"id": "htype_007", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 4.95, "error": null}
+{"id": "htype_008", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 1.09, "error": null}
+{"id": "htype_009", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.1, "error": null}
+{"id": "htype_010", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 1.73, "error": null}
+{"id": "htype_011", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 4.66, "error": null}
+{"id": "htype_012", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.61, "error": null}
+{"id": "htype_013", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 1.79, "error": null}
+{"id": "htype_014", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 4.57, "error": null}
+{"id": "htype_015", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 0.93, "error": null}
+{"id": "htype_016", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 5.23, "error": null}
+{"id": "htype_017", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 4.56, "error": null}
+{"id": "htype_018", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.69, "error": null}
+{"id": "htype_019", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 1.56, "error": null}
+{"id": "htype_020", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 1.25, "error": null}
+{"id": "htype_021", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.57, "error": null}
+{"id": "htype_022", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 1.73, "error": null}
+{"id": "htype_023", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 4.69, "error": null}
+{"id": "htype_024", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.44, "error": null}
+{"id": "htype_025", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 5.38, "error": null}
+{"id": "htype_026", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 4.66, "error": null}
+{"id": "htype_027", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.45, "error": null}
+{"id": "htype_028", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 5.11, "error": null}
+{"id": "htype_029", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 6.01, "error": null}
+{"id": "htype_030", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.3, "error": null}
+{"id": "htype_031", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 5.36, "error": null}
+{"id": "htype_032", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 4.62, "error": null}
+{"id": "htype_033", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.65, "error": null}
+{"id": "htype_034", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 5.34, "error": null}
+{"id": "htype_035", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 4.38, "error": null}
+{"id": "htype_036", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "uncertain", "truth": "single crystal", "correct": false, "seconds": 4.6, "error": null}
+{"id": "htype_037", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "polycrystalline", "truth": "polycrystalline", "correct": true, "seconds": 4.94, "error": null}
+{"id": "htype_038", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "amorphous", "truth": "amorphous", "correct": true, "seconds": 5.93, "error": null}
+{"id": "htype_039", "task": "pattern_type", "model": "SAEDscope (physics pipeline)", "answer": "single crystal", "truth": "single crystal", "correct": true, "seconds": 4.52, "error": null}
+{"id": "hringphase_000", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 16.14, "error": null}
+{"id": "hringphase_001", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 16.17, "error": null}
+{"id": "hringphase_002", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 15.01, "error": null}
+{"id": "hringphase_003", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 15.66, "error": null}
+{"id": "hringphase_004", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 14.65, "error": null}
+{"id": "hringphase_005", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 14.55, "error": null}
+{"id": "hringphase_006", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 15.05, "error": null}
+{"id": "hringphase_007", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 5.54, "error": null}
+{"id": "hringphase_008", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 12.7, "error": null}
+{"id": "hringphase_009", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 6.95, "error": null}
+{"id": "hringphase_010", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 7.15, "error": null}
+{"id": "hringphase_011", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 7.19, "error": null}
+{"id": "hringphase_012", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "A", "truth": "A", "correct": true, "seconds": 7.12, "error": null}
+{"id": "hringphase_013", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 12.4, "error": null}
+{"id": "hringphase_014", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 10.26, "error": null}
+{"id": "hringphase_015", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 7.4, "error": null}
+{"id": "hringphase_016", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "A", "truth": "A", "correct": true, "seconds": 7.48, "error": null}
+{"id": "hringphase_017", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 7.31, "error": null}
+{"id": "hringphase_018", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 7.37, "error": null}
+{"id": "hringphase_019", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 14.73, "error": null}
+{"id": "hringphase_020", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 9.15, "error": null}
+{"id": "hringphase_021", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 2.2, "error": null}
+{"id": "hringphase_022", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 13.64, "error": null}
+{"id": "hringphase_023", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 7.18, "error": null}
+{"id": "hringphase_024", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "A", "truth": "A", "correct": true, "seconds": 9.05, "error": null}
+{"id": "hringphase_025", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 7.21, "error": null}
+{"id": "hringphase_026", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 13.99, "error": null}
+{"id": "hringphase_027", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 10.94, "error": null}
+{"id": "hringphase_028", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 7.46, "error": null}
+{"id": "hringphase_029", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 6.65, "error": null}
+{"id": "hringphase_030", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 7.07, "error": null}
+{"id": "hringphase_031", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 6.87, "error": null}
+{"id": "hringphase_032", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 1.83, "error": null}
+{"id": "hringphase_033", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "A", "truth": "A", "correct": true, "seconds": 6.94, "error": null}
+{"id": "hringphase_034", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 2.5, "error": null}
+{"id": "hringphase_035", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 6.69, "error": null}
+{"id": "hringphase_036", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 6.99, "error": null}
+{"id": "hringphase_037", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 6.88, "error": null}
+{"id": "hringphase_038", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 7.06, "error": null}
+{"id": "hringphase_039", "task": "ring_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 6.56, "error": null}
+{"id": "hringd_000", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.4753", "truth": 2.4734, "correct": true, "seconds": 7.98, "error": null}
+{"id": "hringd_001", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.2511", "truth": 3.2482, "correct": true, "seconds": 12.93, "error": null}
+{"id": "hringd_002", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.1181", "truth": 2.4489, "correct": false, "seconds": 12.72, "error": null}
+{"id": "hringd_003", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.2663", "truth": 3.2666, "correct": true, "seconds": 4.31, "error": null}
+{"id": "hringd_004", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.2367", "truth": 2.2381, "correct": true, "seconds": 13.32, "error": null}
+{"id": "hringd_005", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.4489", "truth": 2.4489, "correct": true, "seconds": 12.78, "error": null}
+{"id": "hringd_006", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.2662", "truth": 2.2656, "correct": true, "seconds": 6.46, "error": null}
+{"id": "hringd_007", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.8158", "truth": 2.8144, "correct": true, "seconds": 7.25, "error": null}
+{"id": "hringd_008", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.0346", "truth": 2.0346, "correct": true, "seconds": 6.88, "error": null}
+{"id": "hringd_009", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.0391", "truth": 2.0397, "correct": true, "seconds": 6.88, "error": null}
+{"id": "hringd_010", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.2332", "truth": 2.2381, "correct": true, "seconds": 6.79, "error": null}
+{"id": "hringd_011", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.4587", "truth": 2.4734, "correct": true, "seconds": 10.97, "error": null}
+{"id": "hringd_012", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.4473", "truth": 2.4489, "correct": true, "seconds": 8.13, "error": null}
+{"id": "hringd_013", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.4439", "truth": 2.4489, "correct": true, "seconds": 9.62, "error": null}
+{"id": "hringd_014", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.6896", "truth": 3.6825, "correct": true, "seconds": 6.7, "error": null}
+{"id": "hringd_015", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.8082", "truth": 2.8144, "correct": true, "seconds": 6.89, "error": null}
+{"id": "hringd_016", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.0744", "truth": 2.0733, "correct": true, "seconds": 6.65, "error": null}
+{"id": "hringd_017", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.4750", "truth": 2.4734, "correct": true, "seconds": 6.33, "error": null}
+{"id": "hringd_018", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.3526", "truth": 2.3545, "correct": true, "seconds": 6.42, "error": null}
+{"id": "hringd_019", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.3371", "truth": 2.338, "correct": true, "seconds": 6.76, "error": null}
+{"id": "hringd_020", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.6859", "truth": 3.6825, "correct": true, "seconds": 6.41, "error": null}
+{"id": "hringd_021", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.2450", "truth": 2.2463, "correct": true, "seconds": 6.75, "error": null}
+{"id": "hringd_022", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.0263", "truth": 2.0269, "correct": true, "seconds": 6.59, "error": null}
+{"id": "hringd_023", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.4439", "truth": 2.4489, "correct": true, "seconds": 6.65, "error": null}
+{"id": "hringd_024", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.0928", "truth": 2.4116, "correct": false, "seconds": 2.14, "error": null}
+{"id": "hringd_025", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.0394", "truth": 2.0269, "correct": true, "seconds": 6.85, "error": null}
+{"id": "hringd_026", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.2449", "truth": 2.2463, "correct": true, "seconds": 6.69, "error": null}
+{"id": "hringd_027", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.6689", "truth": 3.6825, "correct": true, "seconds": 2.26, "error": null}
+{"id": "hringd_028", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.2510", "truth": 3.2482, "correct": true, "seconds": 6.9, "error": null}
+{"id": "hringd_029", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.0392", "truth": 2.0346, "correct": true, "seconds": 6.85, "error": null}
+{"id": "hringd_030", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.0332", "truth": 2.0346, "correct": true, "seconds": 6.51, "error": null}
+{"id": "hringd_031", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.5244", "truth": 3.5165, "correct": true, "seconds": 6.94, "error": null}
+{"id": "hringd_032", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.3378", "truth": 2.338, "correct": true, "seconds": 6.57, "error": null}
+{"id": "hringd_033", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.2694", "truth": 3.2666, "correct": true, "seconds": 6.52, "error": null}
+{"id": "hringd_034", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.4832", "truth": 3.48, "correct": true, "seconds": 6.47, "error": null}
+{"id": "hringd_035", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.4697", "truth": 2.4734, "correct": true, "seconds": 6.73, "error": null}
+{"id": "hringd_036", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.4113", "truth": 2.4116, "correct": true, "seconds": 6.21, "error": null}
+{"id": "hringd_037", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.1260", "truth": 3.124, "correct": true, "seconds": 7.12, "error": null}
+{"id": "hringd_038", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "2.0350", "truth": 2.0346, "correct": true, "seconds": 6.96, "error": null}
+{"id": "hringd_039", "task": "ring_dspacing", "model": "SAEDscope (physics pipeline)", "answer": "3.6907", "truth": 3.6825, "correct": true, "seconds": 6.85, "error": null}
+{"id": "hzone_000", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 4.76, "error": null}
+{"id": "hzone_001", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 4.41, "error": null}
+{"id": "hzone_002", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[2 0 1]", "truth": [2, 0, 1], "correct": true, "seconds": 4.45, "error": null}
+{"id": "hzone_003", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 0.96, "error": null}
+{"id": "hzone_004", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 4.84, "error": null}
+{"id": "hzone_005", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 1]", "truth": [1, 1, 1], "correct": true, "seconds": 1.26, "error": null}
+{"id": "hzone_006", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 1.19, "error": null}
+{"id": "hzone_007", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[2 2 1]", "truth": [2, 2, 1], "correct": true, "seconds": 4.86, "error": null}
+{"id": "hzone_008", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[2 1 0]", "truth": [2, 1, 0], "correct": true, "seconds": 4.78, "error": null}
+{"id": "hzone_009", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 4.67, "error": null}
+{"id": "hzone_010", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[2 2 1]", "truth": [2, 2, 1], "correct": true, "seconds": 4.4, "error": null}
+{"id": "hzone_011", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 1]", "truth": [1, 1, 1], "correct": true, "seconds": 4.58, "error": null}
+{"id": "hzone_012", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 1]", "truth": [1, 1, 1], "correct": true, "seconds": 4.31, "error": null}
+{"id": "hzone_013", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 4.68, "error": null}
+{"id": "hzone_014", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 9.59, "error": null}
+{"id": "hzone_015", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 4.62, "error": null}
+{"id": "hzone_016", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[2 1 0]", "truth": [2, 1, 0], "correct": true, "seconds": 5.2, "error": null}
+{"id": "hzone_017", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 4.38, "error": null}
+{"id": "hzone_018", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[2 1 0]", "truth": [2, 1, 0], "correct": true, "seconds": 4.96, "error": null}
+{"id": "hzone_019", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[2 1 0]", "truth": [2, 1, 0], "correct": true, "seconds": 4.89, "error": null}
+{"id": "hzone_020", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 4.74, "error": null}
+{"id": "hzone_021", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 4.93, "error": null}
+{"id": "hzone_022", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 4.58, "error": null}
+{"id": "hzone_023", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 4.87, "error": null}
+{"id": "hzone_024", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 4.96, "error": null}
+{"id": "hzone_025", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 1]", "truth": [1, 0, 1], "correct": true, "seconds": 4.58, "error": null}
+{"id": "hzone_026", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 5.03, "error": null}
+{"id": "hzone_027", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 4.5, "error": null}
+{"id": "hzone_028", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 4.5, "error": null}
+{"id": "hzone_029", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 4.28, "error": null}
+{"id": "hzone_030", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[2 1 0]", "truth": [2, 1, 0], "correct": true, "seconds": 1.25, "error": null}
+{"id": "hzone_031", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[0 0 1]", "truth": [0, 0, 1], "correct": true, "seconds": 4.51, "error": null}
+{"id": "hzone_032", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 1]", "truth": [1, 1, 1], "correct": true, "seconds": 4.44, "error": null}
+{"id": "hzone_033", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[2 1 0]", "truth": [2, 1, 0], "correct": true, "seconds": 4.8, "error": null}
+{"id": "hzone_034", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 1.53, "error": null}
+{"id": "hzone_035", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 5.26, "error": null}
+{"id": "hzone_036", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 4.85, "error": null}
+{"id": "hzone_037", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 1 0]", "truth": [1, 1, 0], "correct": true, "seconds": 4.24, "error": null}
+{"id": "hzone_038", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[1 0 0]", "truth": [1, 0, 0], "correct": true, "seconds": 1.11, "error": null}
+{"id": "hzone_039", "task": "zone_axis", "model": "SAEDscope (physics pipeline)", "answer": "[0 0 1]", "truth": [0, 0, 1], "correct": true, "seconds": 1.04, "error": null}
+{"id": "hspotphase_000", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 1.01, "error": null}
+{"id": "hspotphase_001", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "A", "truth": "D", "correct": false, "seconds": 4.91, "error": null}
+{"id": "hspotphase_002", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 1.02, "error": null}
+{"id": "hspotphase_003", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "D", "correct": false, "seconds": 6.71, "error": null}
+{"id": "hspotphase_004", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 5.52, "error": null}
+{"id": "hspotphase_005", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "A", "truth": "A", "correct": true, "seconds": 4.62, "error": null}
+{"id": "hspotphase_006", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 1.1, "error": null}
+{"id": "hspotphase_007", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "A", "truth": "A", "correct": true, "seconds": 5.66, "error": null}
+{"id": "hspotphase_008", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 4.55, "error": null}
+{"id": "hspotphase_009", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 4.49, "error": null}
+{"id": "hspotphase_010", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 4.5, "error": null}
+{"id": "hspotphase_011", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 4.9, "error": null}
+{"id": "hspotphase_012", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 1.06, "error": null}
+{"id": "hspotphase_013", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 4.65, "error": null}
+{"id": "hspotphase_014", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 4.68, "error": null}
+{"id": "hspotphase_015", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 4.55, "error": null}
+{"id": "hspotphase_016", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 5.04, "error": null}
+{"id": "hspotphase_017", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 5.01, "error": null}
+{"id": "hspotphase_018", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 4.28, "error": null}
+{"id": "hspotphase_019", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 4.86, "error": null}
+{"id": "hspotphase_020", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 4.53, "error": null}
+{"id": "hspotphase_021", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 1.16, "error": null}
+{"id": "hspotphase_022", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 4.4, "error": null}
+{"id": "hspotphase_023", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 4.41, "error": null}
+{"id": "hspotphase_024", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "A", "truth": "A", "correct": true, "seconds": 4.81, "error": null}
+{"id": "hspotphase_025", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 1.1, "error": null}
+{"id": "hspotphase_026", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "A", "truth": "A", "correct": true, "seconds": 4.24, "error": null}
+{"id": "hspotphase_027", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 4.5, "error": null}
+{"id": "hspotphase_028", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 4.72, "error": null}
+{"id": "hspotphase_029", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 4.65, "error": null}
+{"id": "hspotphase_030", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 4.34, "error": null}
+{"id": "hspotphase_031", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 4.31, "error": null}
+{"id": "hspotphase_032", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 4.78, "error": null}
+{"id": "hspotphase_033", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "D", "truth": "D", "correct": true, "seconds": 1.03, "error": null}
+{"id": "hspotphase_034", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 5.68, "error": null}
+{"id": "hspotphase_035", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 4.56, "error": null}
+{"id": "hspotphase_036", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 4.11, "error": null}
+{"id": "hspotphase_037", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "B", "truth": "B", "correct": true, "seconds": 5.09, "error": null}
+{"id": "hspotphase_038", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 4.59, "error": null}
+{"id": "hspotphase_039", "task": "spot_phase", "model": "SAEDscope (physics pipeline)", "answer": "C", "truth": "C", "correct": true, "seconds": 1.12, "error": null}

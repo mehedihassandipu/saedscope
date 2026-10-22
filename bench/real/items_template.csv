@@ -1,0 +1,5 @@
+id,task,image,calibration_inv_A_per_px,centre_x,centre_y,phase,options,answer
+real_type_01,pattern_type,images/example_rings.png,0.00250,512,498,Au,,polycrystalline
+real_ring_01,ring_phase,images/example_rings.png,0.00250,512,498,Au,Au;NiO;α-Fe (ferrite);Si,A
+real_d_01,ring_dspacing,images/example_rings.png,0.00250,512,498,Au,,2.355
+real_zone_01,zone_axis,images/example_spots.png,0.00250,512,498,Si,,0 1 1
